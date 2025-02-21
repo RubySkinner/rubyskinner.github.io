@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: Ruby Faulkner
-    tagline: IT Technician
+    tagline: Rural Carrier
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -42,7 +42,7 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Automotive
+        - item: Motorsports
           link:
 
         - item: Agriculture
@@ -70,26 +70,38 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Technician
-        time: 2022 - Present
+      - role: Rural Carrier
+        time: 2024 - Present
+        company: United States Postal Service, New Salem, ND
+        details: |
+          Delivering mail and packages to rural customers while adhering to USPS standards for accuracy, efficiency, and customer service.
+          Responsible for independently managing route completion within designated timeframes.
+          - Operated personal vehicle to deliver mail along a 130-mile rural route.
+          - Maintained accurate records of deliveries, tracked packages, and processed various special services including certified mail.
+          - Demonstrated exceptional route knowledge and time management skills.
+
+      - role: Helpdesk Technician 1
+        time: 2022 - 2024
         company: BlueBotPC LLC, Lone Tree, CO
         details: |
           Providing Personal Computer support in-person and remote using standard Industry tools and 
           processes to efficiently and effectively resolve the root cause for end user issues. 
-          - Customer Service
-          - Laptop & Desktop Support
+          - Resolved Tickets using Peppermint
+          - Printer Setup and Repair
           - Malware Removal
-          - Home Network Support
+          - Home Network Setup and Support
 
       - role: MailRoom Clerk
-        time: 2022 - Present
+        time: 2022 - 2022
         company: Covius Shared Service LLC, Glendale, CO
         details: |
-          Responsible for sorting and scanning incoming mail as well as various other Mail Room related tasks. 
+          Managed all aspects of high-volume corporate mailroom operations with responsibility 
+          for accurate processing, distribution, and documentation of incoming and outgoing correspondence. 
           - Entered data from mail into an in-house software.
           - Sorted and counted checks for reality companies. 
+          - Coordinated with multiple departments to ensure time-sensitive materials reached appropriate personnel according to established priority guidelines.
 
-      - role: Team Lead
+      - role: Pool Technician - Team Lead
         time: 2016 - 2020
         company: HydroTech Pools & Spas, Aurora, CO
         details: |
@@ -122,29 +134,27 @@ certifications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I also contribute detailed bug reports to a small number of Open-Source Projects that I use such as...
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Gooby's Blocklist
+        link: "https://github.com/GoobyFRS/blocklist"
+        tagline: "Contributes by identifying ads in targetted mobile apps."
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Windows 10 Support
-        level: 95%
+        level: 99%
 
-      - name: Networking Support
+      - name: Automotive Diagnostics
         level: 90%
 
-      - name: Automotive Repair
+      - name: Printer Support
         level: 90%
 
-      - name: Plumbing & Electrical
+      - name: Residential Plumbing
         level: 80%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> - <a href="https://www.bluebotpc.com"> Hosted by BlueBotPC.</a
