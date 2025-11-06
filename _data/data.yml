@@ -52,11 +52,10 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Introduction
     summary: |
-      I have worked in various industries in an effort to find what I am happy doing. I enjoy administrative office work; especially data entry and I am looking into 
-      Data Science Certificate programs. I have strong technical skills with computers and I am very mechanically inclined. I can be adaptable and make well thought decisions 
-      without supervision.
+      Motivated and adaptable professional transitioning into the data and analytics field due to physical limitations from prior industry work. As a dedicated mother balancing family responsibilities, I bring strong organizational skills, resilience, and a proactive mindset to every challenge. I am currently pursuing the CompTIA Data+ certification to build a solid foundation in data analysis, I am eager to apply my growing technical expertise and creative problem-solving abilities in a remote, part-time role that supports both personal and professional growth.
+
 
 education:
     title: Education
@@ -84,10 +83,10 @@ experiences:
         time: 2022 - 2024 then 2025
         #company:  
         details: |
-         -Applied analytical thinking to manage household operations, budgeting, and scheduling across multiple domains.
-         -Developed and maintained systems for tracking expenses, appointments, and resource allocation.
-         -Pursued ongoing professional development in data analytics, including certification in CompTIA ITF+ and Data+.
-         -Demonstrated adaptability, problem-solving, and strategic planning in a dynamic, fast-paced environment.
+         - Applied analytical thinking to manage household operations, budgeting, and scheduling across multiple domains.
+         - Developed and maintained systems for tracking expenses, appointments, and resource allocation.
+         - Pursued ongoing professional development in data analytics, including certification in CompTIA ITF+ and Data+.
+         - Demonstrated adaptability, problem-solving, and strategic planning in a dynamic, fast-paced environment.
 
 
       - role: Front Desk Receptionist
@@ -127,12 +126,12 @@ experiences:
         time: 2017 - 2019
         company: Hydrotech Spas and Pools LLC
         details: |
-         -Created and maintained detailed maintenance schedules for dozens of client accounts, tracking service frequency, seasonal needs, and technician availability.
-         -Collected and organized technician time card data manually, ensuring accurate payroll and performance tracking.
-         -Assigned daily service routes based on location, workload, and technician strengths — optimizing efficiency without digital tools
-         -Maintained physical records of service history, chemical treatments, and equipment repairs to support operational consistency and client satisfaction.
-         -Identified patterns in service needs and technician performance through manual review of logs and schedules, contributing to improved resource allocation.
-         -Acted as liaison between clients and technicians, translating service data into actionable plans and clear communication.
+         - Created and maintained detailed maintenance schedules for dozens of client accounts, tracking service frequency, seasonal needs, and technician availability.
+         - Collected and organized technician time card data manually, ensuring accurate payroll and performance tracking.
+         - Assigned daily service routes based on location, workload, and technician strengths — optimizing efficiency without digital tools
+         - Maintained physical records of service history, chemical treatments, and equipment repairs to support operational consistency and client satisfaction.
+         - Identified patterns in service needs and technician performance through manual review of logs and schedules, contributing to improved resource allocation.
+         - Acted as liaison between clients and technicians, translating service data into actionable plans and clear communication.
 
 
 certifications:
