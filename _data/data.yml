@@ -18,7 +18,7 @@ sidebar:
     timezone: America/Chicago
     #citizenship: USA
     website: rubyskinner.github.io #do not add http://
-    linkedin: ruby-skinner-808979196
+    #linkedin: ruby-skinner-808979196
     #xing: alandoe
     github: rubyskinner
     #telegram: # add your nickname without '@' sign
@@ -61,9 +61,9 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: General Studies
+      - degree: Associate of Science 
         university: Community College of Aurora
-        time: 2019 - 2022
+        time: 2020 - 2022
         #details: |
 #          Build your own Major
 
@@ -71,48 +71,71 @@ experiences:
     title: Experiences
     info:
       - role: Rural Carrier
-        time: 2024 - Present
+        time: March 2024 - August 2025
         company: United States Postal Service, New Salem, ND
         details: |
-          Delivering mail and packages to rural customers while adhering to USPS standards for accuracy, efficiency, and customer service.
-          Responsible for independently managing route completion within designated timeframes.
-          - Operated personal vehicle to deliver mail along a 130-mile rural route.
-          - Maintained accurate records of deliveries, tracked packages, and processed various special services including certified mail.
-          - Demonstrated exceptional route knowledge and time management skills.
+          - Independently managed complex delivery routes across rural areas, demonstrating strong logistical planning and time management.
+          - Maintained accurate records of deliveries and customer interactions, reinforcing attention to detail and data integrity.
+          - Adapted quickly to changing conditions, using communication with regular carrier and GPS to optimize routes and ensure timely service.
+          - Operated under minimal supervision, consistently meeting performance benchmarks and handling high-volume workloads with precision.
+          - Developed resilience and problem-solving abilities in dynamic, fast-paced environments; qualities essential for remote tech roles.
 
-      - role: Helpdesk Technician 1
-        time: 2022 - 2024
-        company: BlueBotPC LLC, Lone Tree, CO
+      - role: Full Time Parent
+        time: 2022 - 2024 then 2025
+        #company:  
         details: |
-          Delivered comprehensive technical support in-person and remote using 
-          industry-standard protocols and diagnostic methodologies to identify and resolve client technology issues efficiently.
-          - Resolved Tickets using Peppermint
-          - Printer Setup and Repair
-          - Malware Removal
-          - Home Network Setup and Support
+         -Applied analytical thinking to manage household operations, budgeting, and scheduling across multiple domains.
+         -Developed and maintained systems for tracking expenses, appointments, and resource allocation.
+         -Pursued ongoing professional development in data analytics, including certification in CompTIA ITF+ and Data+.
+         -Demonstrated adaptability, problem-solving, and strategic planning in a dynamic, fast-paced environment.
 
-      - role: MailRoom Clerk
-        time: 2020 - 2021
-        company: Covius Shared Service LLC, Glendale, CO
+
+      - role: Front Desk Receptionist
+        time: 2022 - 2022 
+        company: Regus 
         details: |
-          Managed all aspects of high-volume corporate mailroom operations with responsibility 
-          for accurate processing, distribution, and documentation of incoming and outgoing correspondence. 
-          - Entered data from mail into an in-house software.
-          - Sorted and counted checks for reality companies. 
-          - Coordinated with multiple departments to ensure time-sensitive materials reached appropriate personnel according to established priority guidelines.
+         - Coordinated daily office rental readiness, ensuring rooms were clean, stocked, and prepared for client use—demonstrating strong organizational and operational oversight.
+         - Managed incoming and outgoing mail for multiple businesses, maintaining accurate logs and ensuring timely distribution—highlighting attention to detail and data tracking.
+         - Served as the first point of contact for clients and vendors, delivering professional communication and resolving scheduling or facility issues efficiently.
+         - Juggled multiple priorities in a fast-paced environment, showcasing adaptability, multitasking, and independent problem-solving.
+         - Maintained digital and physical records of room usage and mail flow, reinforcing data accuracy and administrative reliability.
 
-      - role: Pool Technician - Team Lead
-        time: 2016 - 2020
-        company: HydroTech Pools & Spas, Aurora, CO
+      - role: Mail Room Clerk
+        time: 2020 - 2020
+        company: Covius Shared Service LLC
         details: |
-          As the HydroTech Team Lead I was responsible for a wide range of business operations. Including but not limited to...
-          - Reporting and Logging employee attendance.
-          - Ensures employee hours are logged correctly and employees are paid on-time.
-          - Ensures customers are billed on-time and up-to-date on payments.
-          - Takes customer complaints and concerns and addresses them as needed.
-          - Scheduled equipment installs and repairs.
-          - Maintains and repairs pool and spa equipment in an unsupervised environment.
+          - Sorted and distributed high volumes of incoming and outgoing mail, including sensitive financial documents such as client checks, with precision and confidentiality.
+          - Scanned and digitized real estate documents for internal departments, ensuring accurate indexing and secure electronic storage.
+          - Maintained detailed logs of mail flow and check processing, reinforcing data accuracy and secure handling protocols.
+          - Coordinated with multiple teams to ensure timely delivery and proper documentation of real estate records and financial transactions.
+          - Demonstrated strong organizational skills by managing multiple tasks under tight deadlines in a fast-paced, detail-oriented environment.
+          - Identified and resolved discrepancies in documentation and delivery, showcasing problem-solving and quality control abilities.
+          - Supported operational workflows with a focus on accuracy, accountability, and trust. 
 
+      - role: Costomer Service Representative
+        time: 2019 - 2020
+        company: WelldyneRX
+        details: |
+         - Handled inbound calls for both pharmacy services and insurance inquiries, providing accurate information and resolving customer concerns with professionalism and empathy.
+         - Navigated multiple systems to verify prescriptions, track shipments, and update insurance records—demonstrating digital fluency and multitasking across platforms.
+         - Maintained detailed call logs and documentation, reinforcing data accuracy and compliance with HIPAA and company protocols.
+         - Collaborated with internal departments to troubleshoot issues and ensure timely medication delivery and insurance processing.
+         - Adapted to evolving procedures and policy updates, showcasing flexibility and a commitment to continuous learning.
+         - Delivered high-quality service in a remote-friendly environment, balancing efficiency with compassionate communication.
+      
+      - role: Team Supervisor-Pool Technician 
+        time: 2017 - 2019
+        company: Hydrotech Spas and Pools LLC
+        details: |
+         -Created and maintained detailed maintenance schedules for dozens of client accounts, tracking service frequency, seasonal needs, and technician availability.
+         -Collected and organized technician time card data manually, ensuring accurate payroll and performance tracking.
+         -Assigned daily service routes based on location, workload, and technician strengths — optimizing efficiency without digital tools
+         -Maintained physical records of service history, chemical treatments, and equipment repairs to support operational consistency and client satisfaction.
+         -Identified patterns in service needs and technician performance through manual review of logs and schedules, contributing to improved resource allocation.
+         -Acted as liaison between clients and technicians, translating service data into actionable plans and clear communication.
+
+
+certifications:
 certifications:
       title: Certifications
       list:
