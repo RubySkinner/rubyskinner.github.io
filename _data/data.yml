@@ -10,7 +10,7 @@ sidebar:
     # Profile information
     name: Ruby Faulkner
     tagline: Rural Carrier
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile_01.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: rubyskinner@protonmail.com
@@ -54,7 +54,7 @@ sidebar:
 career-profile:
     title: Introduction
     summary: |
-      Motivated and adaptable professional transitioning into the data and analytics field due to physical limitations from prior industry work. As a dedicated mother balancing family responsibilities, I bring strong organizational skills, resilience, and a proactive mindset to every challenge. I am currently pursuing the CompTIA Data+ certification to build a solid foundation in data analysis, I am eager to apply my growing technical expertise and creative problem-solving abilities in a remote, part-time role that supports both personal and professional growth.
+      Motivated and adaptable professional transitioning into the data and analytics field due to physical limitations from prior industry work. As a dedicated mother balancing family responsibilities, I bring strong organizational skills, resilience, and a proactive mindset to every challenge. I recently acquired the CompTIA Data+ certification to build a solid foundation in data analysis, I am eager to apply my growing technical expertise and creative problem-solving abilities in a remote, part-time role that supports both personal and professional growth.
 
 
 education:
@@ -133,8 +133,6 @@ experiences:
          - Identified patterns in service needs and technician performance through manual review of logs and schedules, contributing to improved resource allocation.
          - Acted as liaison between clients and technicians, translating service data into actionable plans and clear communication.
 
-
-certifications:
 certifications:
       title: Certifications
       list:
@@ -152,6 +150,18 @@ certifications:
             - Software Development
             - Database Fundamentals
             - Security Fundamentals
+        - name: Certified Data analyst
+          start: 2025
+          organization: CompTIA
+          #credentialid: 
+          #credentialurl: 
+          credentialname: CompTIA IT Fundamentals+
+          details: |
+            Validates foundational data analytics skills including data mining, statistical analysis, and data visualization. Demonstrates proficiency in transforming business requirements into data-driven insights using tools and techniques aligned with industry standards. Covers data governance, quality, and communication strategies essential for decision-making in data-centric environments.
+             - Validates skills in data mining, analysis, visualization, and governance.
+             - Demonstrates ability to translate business needs into actionable insights using structured data.
+             - Covers statistical methods, data quality, and communication of findings to stakeholders.
+
 
 projects:
     title: Projects
@@ -166,17 +176,36 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+
       - name: Windows 10 Support
-        level: 99%
+        level: 80%
 
       - name: Automotive Diagnostics
+        level: 95%
+
+      - name: Data Analysis Fundamentals (CompTIA Data+)
+        level: 85%
+
+      - name: Minecraft Systems & Logic
+        level: 85%
+
+      - name: Printer & Peripheral Support
         level: 90%
 
-      - name: Printer Support
-        level: 90%
-
-      - name: Residential Plumbing
+      - name: Spreadsheet Tools (Excel, Google Sheets)
         level: 80%
+
+      - name: Household Workflow Management
+        level: 90%
+
+      - name: Route Navigation & Task Execution
+        level: 95%
+
+      - name: Multispecies Pet Care & Observation
+        level: 85%
+
+      - name: Culinary Planning & Execution
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> - <a href="https://www.bluebotpc.com"> Hosted by BlueBotPC.</a
